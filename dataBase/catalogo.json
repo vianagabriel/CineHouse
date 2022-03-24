@@ -1,0 +1,35 @@
+
+ 
+[{
+  "codigo": 1,
+  "titulo": "Velozes e furiosos",
+  "duracao": "2h10min",
+  "atores": ["Vin Diesel", "Paul Walker"],
+  "lancamento": 2009,
+  "emCartaz": false
+},
+ {
+  "codigo": 2,
+  "titulo": "Projeto Adam",
+  "duracao": "1h46min",
+  "atores": ["Ryan Reynolds", "Walker Scobell"],
+  "lancamento": 2022,
+  "emCartaz": true
+},
+ {
+  "codigo": 3,
+  "titulo": "Cidade de Deus",
+  "duracao": "2h10min",
+  "atores": ["Douglas Silva", "Seu Jorge"],
+  "lancamento": 2002,
+  "emCartaz": false
+},
+ {
+  "codigo":4,
+  "titulo": "O regresso",
+  "duracao": "2h36min",
+  "atores": ["Leonardo Di Caprio", "Will Poulter"],
+  "lancamento": 2015,
+  "emCartaz": false
+}
+]
